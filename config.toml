@@ -11,14 +11,21 @@ pygmentscodefences  = true
 [params]
   sitename = "Estatutos GLUD"
   disableWebFonts = false
+  actual = "estatutos/estatutos-20110712.md" #estatutos actuales para la página principal
 
 [[menu.main]]
-    name = "Acerca"
-    url  = "https://github.com/GLUD/estatutos"
+    name = "Actuales" 
+    url  = "/estatutos/actuales"
+
 [[menu.main]]
-    name = "Estatutos"
-    url  = "/post"
+    name = "Acerca" 
+    url  = "/acerca"
+
 [[menu.main]]
-    name = "Página oficial"
+    name = "Archivo"
+    url  = "/estatutos"
+    
+[[menu.main]]
+    name = "Página oficial GLUD"
     url  = "https://glud.udistrital.edu.co/"
 
