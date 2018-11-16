@@ -1,0 +1,24 @@
+baseurl = "https://estatutos.glud.org"
+title = "Estatutos GLUD"
+author = "Grupo GNU/Linux de la Universidad Distrital"
+canonifyurls = true
+languagecode = "es"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Estatutos GLUD"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "Acerca"
+    url  = "https://github.com/GLUD/estatutos"
+[[menu.main]]
+    name = "Estatutos"
+    url  = "/post"
+[[menu.main]]
+    name = "Página oficial"
+    url  = "https://glud.udistrital.edu.co/"
+
