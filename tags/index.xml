@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Estatutos GLUD</title>
+    <link>https://estatutos.glud.org/tags/</link>
+    <description>Recent content in Tags on Estatutos GLUD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://estatutos.glud.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estatutos</title>
+      <link>https://estatutos.glud.org/tags/estatutos/</link>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://estatutos.glud.org/tags/estatutos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glud</title>
+      <link>https://estatutos.glud.org/tags/glud/</link>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://estatutos.glud.org/tags/glud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>https://estatutos.glud.org/tags/legal/</link>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://estatutos.glud.org/tags/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vigente</title>
+      <link>https://estatutos.glud.org/tags/vigente/</link>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://estatutos.glud.org/tags/vigente/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

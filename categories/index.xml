@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Estatutos GLUD</title>
+    <link>https://estatutos.glud.org/categories/</link>
+    <description>Recent content in Categories on Estatutos GLUD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="https://estatutos.glud.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estatutos</title>
+      <link>https://estatutos.glud.org/categories/estatutos/</link>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://estatutos.glud.org/categories/estatutos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
