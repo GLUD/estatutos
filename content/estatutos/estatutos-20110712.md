@@ -1,5 +1,5 @@
 +++
-date = "2011-07-12"
+date = "2021-04-12"
 slug = "actuales"
 title = "Estatutos Actuales"
 tags = [
